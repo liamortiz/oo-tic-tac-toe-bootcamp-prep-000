@@ -1,5 +1,5 @@
 class TicTacToe
-  @WIN_COMBINATIONS = [[0, 1, 2], # Top row
+  WIN_COMBINATIONS = [[0, 1, 2], # Top row
                       [3, 4, 5], # Bottom row
                       [6, 7, 8], # Last row
                       [0, 3, 6], # Left col
