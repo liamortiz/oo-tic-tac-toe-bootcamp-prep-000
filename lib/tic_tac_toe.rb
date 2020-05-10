@@ -8,7 +8,7 @@ class TicTacToe
                       [0, 4, 8], # X1
                       [2, 4, 6]  # X2
                       ]
-  def initialize(display_board)
+  def initialize
     @board = [" "] * 9
   end
   
